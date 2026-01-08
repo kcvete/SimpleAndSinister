@@ -1,7 +1,8 @@
 {
   "name": "Simple & Sinister Tracker",
   "short_name": "S&S Tracker",
-  "start_url": ".",
+  "start_url": "/SimpleAndSinister/",
+  "scope": "/SimpleAndSinister/",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#0f172a",
