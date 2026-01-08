@@ -1,0 +1,5 @@
+{
+  "name": "Simple & Sinister Tracker",
+  "description": "A progressive web app to track the Simple & Sinister kettlebell program with progress visualization and AI coaching.",
+  "requestFramePermissions": []
+}
